@@ -8,17 +8,17 @@ Software Engineer | BackEnd
 
 ```json
 {
-  "Languages": ["JavaScript","C"],
+  "Languages": ["JavaScript","Python"],
   "Backend": ["NodeJS"],
-  "Frontend": ["React", "Next"],
-  "CSS Framework": ["Material", "Sass", "Tailwind"],
-  "Ui/Ux": ["Adobe Xd", "Sketch" "Figma"],
+  "Frontend": ["React.Js", "Next.Js"],
+  "CSS Framework": ["Material", "Sass", "Tailwind", "shadcn"],
+  "Ui/Ux": ["Figma"],
   "OS": ["Linux", "Windows"],
-  "Databases": ["mySQL", "MongoDB"],
+  "Databases": ["mySQL", "MongoDB", "PostgreSQL"],
   "API/Auth": ["REST", "JSON"],
   "Build Tools": ["Webpack"],
   "Package Manager": ["npm", "yarn"],
-  "Version Control": ["Git", "GitHub", "GitLab"]
+  "Version Control": ["GitHub", "GitLab"]
 }
 ```
 
