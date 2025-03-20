@@ -14,7 +14,7 @@ programmer | JavsScript
   "CSS Framework": ["Material", "Sass", "Tailwind", "shadcn"],
   "Ui/Ux": ["Figma"],
   "OS": ["Linux", "Windows"],
-  "Databases": ["mySQL", "MongoDB", "PostgreSQL"],
+  "Databases": ["mySQL", "MongoDB",],
   "API/Auth": ["REST", "JSON"],
   "Build Tools": ["Webpack"],
   "Package Manager": ["npm", "yarn"],
