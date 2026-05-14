@@ -4,21 +4,23 @@
 
 Programmer | JavsScript
 
-## 💎 Web2.0 Stack
+## 🔧 Engineering Stack
 
 ```json
 {
-  "Languages": ["JavaScript","Python"],
-  "Backend": ["NodeJS"],
-  "Frontend": ["React.Js", "Next.Js"],
-  "CSS Framework": ["Material", "Sass", "Tailwind", "shadcn"],
-  "Ui/Ux": ["Figma"],
-  "OS": ["Linux", "Windows"],
-  "Databases": ["mySQL", "MongoDB"],
-  "API/Auth": ["REST", "JSON"],
-  "Build Tools": ["Webpack"],
-  "Package Manager": ["npm", "yarn"],
-  "Version Control": ["GitHub", "GitLab"]
+  "Languages": ["JavaScript", "TypeScript"],
+  "Frontend": ["React.js", "Next.js"],
+  "Backend": ["Node.js", "Express.js"],
+  "Styling": ["Tailwind CSS", "Sass", "Material UI", "shadcn/ui"],
+  "Databases": ["MySQL", "PostgreSQL"],
+  "API & Auth": ["REST API", "JSON", "JWT"],
+  "Testing & QA": ["Playwright", "Jest"],
+  "AI & Dev Tools": ["GitHub Copilot", "ChatGPT", "Cursor AI"],
+  "Build Tools": ["Vite", "Webpack"],
+  "Tools": ["Git", "GitHub", "GitLab"],
+  "Package Managers": ["npm", "Yarn", "pnpm"],
+  "UI/UX": ["Figma"],
+  "Operating Systems": ["Linux", "Windows"]
 }
 ```
 
