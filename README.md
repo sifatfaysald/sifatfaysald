@@ -1,10 +1,10 @@
-# Sifat Faysal Dipto
+# Sifat Faysal (Dipto)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sifatfaysald@gmail.com)
 
 Programmer | JavsScript
 
-## 🔧 Engineering Stack
+## 🛠️ Engineering Stack
 
 ```json
 {
@@ -24,4 +24,4 @@ Programmer | JavsScript
 }
 ```
 
-![image](https://github.com/sifatfaysaldipto/sifatfaysaldipto/blob/main/deno-fan.gif)
+![image](https://github.com/sifatfaysald/sifatfaysald/blob/main/dino.gif)
