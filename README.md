@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sifatfaysald@gmail.com)
 
-programmer | JavsScript
+Programmer | JavsScript
 
 ## 💎 Web2.0 Stack
 
